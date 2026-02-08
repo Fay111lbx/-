@@ -1,0 +1,6 @@
+﻿file,city_folder,treated_city,treated_fips,t0,gan_ratio,n_real_donors,n_gen,pre_rmspe,post_att_mean,out_dir
+驻马店_panel_vs_controls_weekly_2018_2022_with_year_week_fips_with_cov.csv,驻马店,驻马店,101,202044,1,106,106,0.8302247201808056,-1.3368884889759753,/root/data/no-heating open/驻马店
+驻马店_panel_vs_controls_weekly_2018_2022_with_year_week_fips_with_cov.csv,驻马店,驻马店,101,202044,2,106,212,1.2647381988542727,-0.22970135289134272,/root/data/no-heating open/驻马店
+驻马店_panel_vs_controls_weekly_2018_2022_with_year_week_fips_with_cov.csv,驻马店,驻马店,101,202044,3,106,318,1.3531909474824764,0.8258782798930704,/root/data/no-heating open/驻马店
+驻马店_panel_vs_controls_weekly_2018_2022_with_year_week_fips_with_cov.csv,驻马店,驻马店,101,202044,4,106,424,1.305820795089437,0.7131779779040804,/root/data/no-heating open/驻马店
+驻马店_panel_vs_controls_weekly_2018_2022_with_year_week_fips_with_cov.csv,驻马店,驻马店,101,202044,5,106,530,1.1083631904542786,2.7998922751733786,/root/data/no-heating open/驻马店
