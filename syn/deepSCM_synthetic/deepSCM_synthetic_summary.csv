@@ -1,0 +1,7 @@
+﻿data,treated_city,t0,mode,gan_ratio,n_real_donors,n_gen,pre_rmspe,post_att_mean,out_dir
+combined_final.csv,合成,2020-11-01,noGAN,0,188,0,0.568425069082503,4.187881522648459,/root/data/合成/deepSCM_synthetic/合成
+combined_final.csv,合成,2020-11-01,GAN,1,188,188,1.023655611643796,4.365402510910264,/root/data/合成/deepSCM_synthetic/合成
+combined_final.csv,合成,2020-11-01,GAN,2,188,376,0.8089953014936981,4.255851709911609,/root/data/合成/deepSCM_synthetic/合成
+combined_final.csv,合成,2020-11-01,GAN,3,188,564,0.9837576031765966,4.377587768003305,/root/data/合成/deepSCM_synthetic/合成
+combined_final.csv,合成,2020-11-01,GAN,4,188,752,1.0051911725187928,3.996012854539544,/root/data/合成/deepSCM_synthetic/合成
+combined_final.csv,合成,2020-11-01,GAN,5,188,940,1.2263389590595137,4.551624562007492,/root/data/合成/deepSCM_synthetic/合成

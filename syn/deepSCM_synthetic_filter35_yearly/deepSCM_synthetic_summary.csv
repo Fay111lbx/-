@@ -1,0 +1,7 @@
+﻿data,treated_city,t0,mode,gan_ratio,n_real_donors,n_gen,pre_rmspe,post_att_mean,out_dir,donor_filter_pre_mean_min_pm25,donor_filter_pre_mean_mode,donor_dropped_pre_mean_n
+combined_final.csv,合成,2020-11-01,noGAN,0,119,0,0.9106667267513521,0.5771752270611384,/root/data/合成/deepSCM_synthetic_filter35_yearly/合成,35.0,yearly,69
+combined_final.csv,合成,2020-11-01,GAN,1,119,119,1.1947593177374034,1.5115506270979753,/root/data/合成/deepSCM_synthetic_filter35_yearly/合成,35.0,yearly,69
+combined_final.csv,合成,2020-11-01,GAN,2,119,238,0.8488114607538263,1.4554891862334798,/root/data/合成/deepSCM_synthetic_filter35_yearly/合成,35.0,yearly,69
+combined_final.csv,合成,2020-11-01,GAN,3,119,357,1.0913857298708227,1.4570372232982935,/root/data/合成/deepSCM_synthetic_filter35_yearly/合成,35.0,yearly,69
+combined_final.csv,合成,2020-11-01,GAN,4,119,476,1.115704440996949,1.561548809209057,/root/data/合成/deepSCM_synthetic_filter35_yearly/合成,35.0,yearly,69
+combined_final.csv,合成,2020-11-01,GAN,5,119,595,1.296800625028861,1.892281872155748,/root/data/合成/deepSCM_synthetic_filter35_yearly/合成,35.0,yearly,69
