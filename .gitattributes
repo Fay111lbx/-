@@ -1,0 +1,4 @@
+合成/*.csv filter=lfs diff=lfs merge=lfs -text
+合成/**/*.csv filter=lfs diff=lfs merge=lfs -text
+合成/*.png filter=lfs diff=lfs merge=lfs -text
+合成/**/*.png filter=lfs diff=lfs merge=lfs -text
